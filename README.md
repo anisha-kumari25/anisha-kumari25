@@ -43,11 +43,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/anisha-kumari25
 - 📧 Email: anisha08kumari@gmail.com
 
----
 
-## 🐍 Contribution Activity
-
-![Snake animation](https://github.com/anisha-kumari25/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
