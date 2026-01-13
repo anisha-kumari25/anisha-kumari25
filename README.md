@@ -1,10 +1,8 @@
-# Hi 👋, I'm Anisha Kumari
+## Hi 👋, I'm Anisha Kumari
 
-🎓 Electrical and Electronics Engineering student (2nd Year)  
-💡 Exploring technology, programming, and engineering fundamentals  
-🚀 Beginner developer focused on learning with consistency  
-
----
+🎓 Electrical & Electronics Engineering Student (2nd Year)  
+🌱 Learning programming and engineering fundamentals  
+⚡ Curious learner exploring technology step by step  
 
 ## 👩‍🎓 About Me
 - Pursuing **Electrical and Electronics Engineering**
@@ -12,41 +10,27 @@
 - Interested in applying technology to practical, real-world problems
 - Exploring software tools, AI platforms, and modern engineering workflows
 
----
-
-## 🛠️ Skills & Tools
-
+## 🛠️ Skills
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Basics-green)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black)
-![Drone Technology](https://img.shields.io/badge/Drone_Technology-Basic-lightgrey)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Tools-black)
 
----
+## 🎓 Certification
+- **Basic Drone Technology** (Introductory course)
 
 ## 🌱 Currently Learning
-- Strengthening problem-solving skills
-- Improving understanding of programming concepts
-- Exploring beginner-friendly tools and technologies
+- Strengthening problem-solving skills  
+- Improving understanding of programming concepts  
+- Exploring beginner-friendly tools and technologies  
 
----
-
-## 📊 GitHub Activity
-
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisha-kumari25&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anisha-kumari25&layout=compact)
-
----
-
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anisha-kumari25
-- 📧 Email: anisha08kumari@gmail.com
+## 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/anisha-kumari25  
+- **Email:** anisha08kumari@gmail.com  
 
 
 
----
+✨Learning consistently, improving one step at a time.
 
-✨ *Learning step by step, growing with consistency.*
 
 
